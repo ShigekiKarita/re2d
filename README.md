@@ -1,3 +1,5 @@
+# This project was moved to https://github.com/google/re2d
+
 # re2d
 
 [![linux](https://github.com/ShigekiKarita/re2d/actions/workflows/linux.yml/badge.svg)](https://github.com/ShigekiKarita/re2d/actions/workflows/linux.yml)
